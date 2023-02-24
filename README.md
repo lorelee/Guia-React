@@ -3873,3 +3873,5 @@ Sí quieres saber más comparto el siguiente enlace:
 **[⬆ Volver a índice](#índice)**
 
 ---
+
+**crédito: https://github.com/midudev/preguntas-entrevista-react**
